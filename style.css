@@ -375,7 +375,7 @@ header{
 
 .card-info h2{
     font-family: var(--font-primary);
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: 500;
     color: #eee;
 }
